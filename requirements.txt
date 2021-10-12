@@ -7,7 +7,7 @@ input==0.0.0
 Mako==1.1.0
 MarkupSafe==1.1.1
 numpy==1.18.1
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 pigpio==1.44
 ruamel.yaml==0.16.5
 ruamel.yaml.clib==0.2.0
