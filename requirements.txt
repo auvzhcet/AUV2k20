@@ -4,7 +4,7 @@ distlib==0.3.0
 gitdb2==2.0.6
 GitPython==3.0.5
 input==0.0.0
-Mako==1.1.0
+Mako==1.2.2
 MarkupSafe==1.1.1
 numpy==1.18.1
 opencv-python==4.1.2.30
